@@ -29,7 +29,7 @@ Projeyi yerel olarak görüntülemek için aşağıdaki adımları izleyin:
 1. **Depoyu Klonlayın:**
 
    ```bash
-   git clone https://github.com/tejazmali/snapchat-login-clone.git
+   git clone https://github.com/DmrErdinc/snepchat-login-script
    ```
 
 2. **Proje Klasörüne Geçin:**
